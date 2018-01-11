@@ -1,0 +1,2 @@
+C:\Users\Hrvoje\source\repos\Zadaca2\ConsoleApp1\obj\Debug\Zad4.csprojResolveAssemblyReference.cache
+C:\Users\Hrvoje\source\repos\Zadaca2\ConsoleApp1\obj\Debug\Zad4.csproj.CoreCompileInputs.cache

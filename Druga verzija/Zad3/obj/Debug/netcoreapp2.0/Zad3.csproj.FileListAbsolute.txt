@@ -1,0 +1,14 @@
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\obj\Debug\netcoreapp2.0\Zad3.csproj.CoreCompileInputs.cache
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\obj\Debug\netcoreapp2.0\Zad3.AssemblyInfoInputs.cache
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\obj\Debug\netcoreapp2.0\Zad3.AssemblyInfo.cs
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\obj\Debug\netcoreapp2.0\Zad3.csprojResolveAssemblyReference.cache
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\bin\Debug\netcoreapp2.0\Zad3.deps.json
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\bin\Debug\netcoreapp2.0\Zad3.runtimeconfig.json
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\bin\Debug\netcoreapp2.0\Zad3.runtimeconfig.dev.json
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\bin\Debug\netcoreapp2.0\Zad3.dll
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\bin\Debug\netcoreapp2.0\Zad3.pdb
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\obj\Debug\netcoreapp2.0\Zad3.dll
+C:\Users\Hrvoje\source\repos\Zadaca2\UnitTestProject5\obj\Debug\netcoreapp2.0\Zad3.pdb

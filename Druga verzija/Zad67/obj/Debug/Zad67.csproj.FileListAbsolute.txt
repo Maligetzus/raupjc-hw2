@@ -1,0 +1,6 @@
+C:\Users\Hrvoje\source\repos\Zadaca2\ConsoleApp3\obj\Debug\Zad67.csproj.CoreCompileInputs.cache
+C:\Users\Hrvoje\source\repos\Zadaca2\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Hrvoje\source\repos\Zadaca2\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Hrvoje\source\repos\Zadaca2\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Hrvoje\source\repos\Zadaca2\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Hrvoje\source\repos\Zadaca2\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
